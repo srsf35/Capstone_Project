@@ -1,8 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 
-//This is Ashna's branch
-
 function App() {
   return (
     <div className="App">
